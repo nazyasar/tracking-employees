@@ -1,6 +1,25 @@
 {
   "dependencies": {
     "express": "^4.18.2",
+    "inquirer": "^8.2.4",
     "mysql2": "^3.2.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "tracking-employees",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazyasar/tracking-employees.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazyasar/tracking-employees/issues"
+  },
+  "homepage": "https://github.com/nazyasar/tracking-employees#readme"
 }
